@@ -12,4 +12,4 @@ Assignment 3
 http://htmlpreview.github.com/?https://github.com/halil-k/Coursera-projects/blob/master/Intro%20to%20Data%20Science/if-notebook-fails/Assignment%2B3.html
 
 Assignment 2
-http://htmlpreview.github.com/?
+http://htmlpreview.github.com/?https://github.com/halil-k/Coursera-projects/blob/master/Intro%20to%20Data%20Science/if-notebook-fails/Assignment%2B2.html
